@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Fit Progress</string>
+    <string name="instrucciones_baner">Agrega tus actividades favoritas y monitoriar tu avance fisico</string>
+    <string name="informacion">Informacion</string>
+    <string name="salir">Salir</string>
+    <string name="agregar_actividad">Agregar actividad</string>
+    <string name="add_btn">Add</string>
+    <string name="actividad">Actividad</string>
+    <string name="unidad">Unidad</string>
+    <string name="agregar">Agregar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="eliminar_actividad">Eliminar actividad</string>
+    <string name="renombrar_unidad">Renombrar unidad</string>
+    <string name="renombrar_actividad">Renombrar</string>
+    <string name="dia">Dia</string>
+    <string name="rango">Rango</string>
+    <string name="promedio">Promedio</string>
+    <string name="sets">Sets</string>
+    <string name="seleciona_fecha">Selecciona una fecha</string>
+</resources>
